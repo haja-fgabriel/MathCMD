@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1509998176 source:c:\oji\cmd\main.cpp
+	"first.h"
+	"second.h"
+	"final.h"
+
+1509998426 c:\oji\cmd\first.h
+	"list.h"
+	"func_val.h"
+	<fstream>
+	<cstring>
+
+1509998435 c:\oji\cmd\second.h
+	<iostream>
+	<cstring>
+	<cctype>
+	"list.h"
+	"first.h"
+	<cstdlib>
+
+1510000153 c:\oji\cmd\list.h
+	"first.h"
+	"func_val.h"
+	<iostream>
+	<cstring>
+	<cctype>
+	<map>
+
+1509987996 c:\oji\cmd\func_val.h
+
+1509985070 c:\oji\cmd\final.h
+	"first.h"
+
+1509998176 source:d:\backup\cmd\main.cpp
+	"first.h"
+	"second.h"
+	"final.h"
+
+1509998426 d:\backup\cmd\first.h
+	"list.h"
+	"func_val.h"
+	<fstream>
+	<cstring>
+
+1510157241 d:\backup\cmd\list.h
+	"first.h"
+	"func_val.h"
+	<iostream>
+	<cstring>
+	<cctype>
+	<map>
+
+1509987996 d:\backup\cmd\func_val.h
+
+1509998435 d:\backup\cmd\second.h
+	<iostream>
+	<cstring>
+	<cctype>
+	"list.h"
+	"first.h"
+	<cstdlib>
+
+1509985070 d:\backup\cmd\final.h
+	"first.h"
+
